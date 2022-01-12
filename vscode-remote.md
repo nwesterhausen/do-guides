@@ -13,7 +13,7 @@ and take what steps are necessary to install the needed ssh client.
 
    The command palette can be opened with `CONTROL/CMD` + `SHIFT` + `P` or `F1`
   
- 6. Use the same `user@host` you used in step 4
+ 6. Use the same `<user>@<host-ip-address>` you used in step 4
  7. Select Linux if prompted for type of OS
  8. Boom you're connected and developing on the remote server
 
