@@ -2,6 +2,8 @@
 
 Steps to install MySQL on Debian ([Sources](#sources))
 
+Follow these instructions on the Droplet console or after connecting to the droplet [via ssh](https://docs.digitalocean.com/products/droplets/how-to/connect-with-ssh/).
+
 ## Steps
 
 1. Add the MySQL Repository 
