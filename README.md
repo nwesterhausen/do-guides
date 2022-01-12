@@ -14,5 +14,5 @@ A couple simple articles on using Digital Ocean
 
 Droplet will now be created. Then it will be time to login and install any programs you want.
 
-- [Installing mysql](debian-mysql.md)
+- [Installing mysql on the droplet](debian-mysql.md)
 - [Connecting VSCode Remote](vscode-remote.md)
