@@ -16,3 +16,4 @@ Droplet will now be created. Then it will be time to login and install any progr
 
 - [Installing mysql on the droplet](debian-mysql.md)
 - [Connecting VSCode Remote](vscode-remote.md)
+- [Scheduling Jobs & Scripts](scheduling.md)
